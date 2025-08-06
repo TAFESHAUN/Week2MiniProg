@@ -2,7 +2,6 @@
 // Concert Filter & Export App
 // This app filters a list of bands by ticket price
 // and saves the filtered results to a file.
-// (Beginner version: no use of List)
 // ==============================
 
 using System;
